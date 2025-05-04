@@ -1,0 +1,15 @@
+{
+  "name": "KaraokeApp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react-native": "0.79.2",
+    "react-native-audio-api": "^0.5.7",
+    "react-native-live-audio-stream": "^1.1.1",
+    "react-native-permissions": "^5.4.0",
+    "react-native-voice-changer": "^1.1.1"
+  }
+}
